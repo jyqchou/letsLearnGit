@@ -1,3 +1,4 @@
-# letsLearnGit
+ letsLearnGi
 
-hi justin -jp
+hi justin -j
+
