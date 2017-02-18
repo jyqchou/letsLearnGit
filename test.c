@@ -8,6 +8,8 @@
 
 //hi justin
 int main(int argc, char** argv){
+	
+		prinf("hi justin\n");
 
         int* p = (int*)malloc(100);
         char* q = (char*)malloc(100);
